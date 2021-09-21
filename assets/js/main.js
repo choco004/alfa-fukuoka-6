@@ -21,7 +21,7 @@ const app = Vue.createApp({
           q1: '9m43cm',
         },
         stage2: {
-          q1: 'いいい',
+          q1: 'z745',
           // q2: 'えええ',
           // q3: 'おおお'
         },
